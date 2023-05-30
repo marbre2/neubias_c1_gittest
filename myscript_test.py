@@ -7,4 +7,5 @@ def otsu_labeling(image):
     image = image > threshold_ostu(image)
     return label(image)
 
+print("j'ai saboté ton truc")
 print("You have been forked")
